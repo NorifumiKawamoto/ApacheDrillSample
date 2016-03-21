@@ -1,0 +1,3 @@
+{"date": "2016-02-01 11:00:00", "apache": {"ip": "192.168.1.00", "referer": "http://google.com/", "status": 200}}
+{"date": "2016-02-01 12:00:00", "apache": {"ip": "192.168.1.01", "referer": "http://yahoo.co.jp/", "status": 200}}
+{"date": "2016-02-02 12:02:02", "apache": {"ip": "192.168.1.11", "referer": "http://yahoo.co.jp/", "status": 200}}
